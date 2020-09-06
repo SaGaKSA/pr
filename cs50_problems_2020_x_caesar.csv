@@ -1,0 +1,2 @@
+slug,github_id,github_username,name,github_url,timestamp,checks_passed,checks_run,style50_score
+cs50/problems/2020/x/caesar,60010685,SaGaKSA,,https://github.com/me50/SaGaKSA/tree/b81232bf01c4c8326fabc194da2f5d655d4601d8,"Wed, 02 Sep 2020 08:30:02PM +03",11,11,0.8409090909090909
